@@ -36,3 +36,34 @@ Research ongoing.
 Project Marker:
 
 MILLSTAR19_ROOTS_GCS
+
+Research Finding #002
+
+Question:
+
+Can meaningful information emerge from state comparison alone?
+
+Experiment:
+
+A Layer 7 observation command was upgraded to generate a detailed difference report between two operational states.
+
+Result:
+
+The system successfully identified additions, removals, and operational changes without requiring interpretation, mutation, or autonomous action.
+
+Observation:
+
+The result was noteworthy.
+
+The system successfully identified operational changes that were not obvious when examining either state independently.
+
+The resulting difference report exposed information that was hidden inside the relationship between states.
+
+This suggests that comparison itself may be a foundational operation in the emergence of context.
+
+Current Question:
+
+If state comparison reveals hidden information,
+
+can continuous comparison reveal patterns?
+
