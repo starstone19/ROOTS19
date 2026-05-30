@@ -6,10 +6,7 @@ ROOTS19 is an experimental cognition architecture focused on continuity, observa
 
 The project explores the idea that context is not stored directly. Instead, context emerges from:
 
-State
-
-* Difference
-* Continuity
+State + Difference + Continuity
 
 ROOTS19 uses sandbox-first development, governed mutation, continuity preservation, and inspectable operation to explore how cognitive systems may evolve while remaining understandable and controllable.
 
