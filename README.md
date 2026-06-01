@@ -1,6 +1,6 @@
 # ROOTS19
 
-Governed Cognition Substrate
+Governed Cognition Continuity System
 
 ROOTS19 is an experimental cognition architecture focused on continuity, observation, governance, and context emergence.
 
