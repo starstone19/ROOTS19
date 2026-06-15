@@ -1,0 +1,209 @@
+# ROOTS19 / GCCS Development Findings
+
+## June 2026 Project Update
+
+### Overview
+
+Over the last several months, ROOTS19 has transitioned from a foundational architecture project into an active continuity and perception research platform.
+
+The primary focus has remained unchanged:
+
+* Governed cognition
+* Continuity preservation
+* Observation-first processing
+* Read-only exploration before mutation
+* Sandbox-first experimentation
+* Traceable lineage of system growth
+
+Rather than pursuing immediate automation, ROOTS19 has concentrated on establishing stable substrate layers capable of preserving observations, curiosity, verification, and continuity over time.
+
+---
+
+## Major Architectural Finding
+
+A significant discovery emerged during development of the New Horizons exploration system.
+
+Traditional software systems tend to immediately classify, filter, and reduce information into predefined categories.
+
+ROOTS19 is demonstrating a different behavior:
+
+Observation is allowed to remain unresolved long enough for relationships to emerge naturally.
+
+This has become particularly visible within:
+
+* Observation packets
+* Curiosity packets
+* Continuity memory records
+* New Horizons association fields
+* Layer 7 exploration pathways
+
+The result is a growing association structure that increasingly resembles an evolving network rather than a static database.
+
+---
+
+## New Horizons Evolution
+
+The New Horizons subsystem was originally designed as a perspective-guided exploration engine.
+
+Current exploration path:
+
+Subject
+→ Perspective
+→ Voyager2
+→ Hubble2
+→ Association Discovery
+→ Continuity Handoff
+
+Recent work focused on reducing the computational cost of association gathering while preserving continuity.
+
+### New Discovery
+
+Association growth appears to behave more effectively when observations are surfaced before being classified.
+
+Instead of forcing terms into predefined categories, ROOTS19 allows associations to accumulate and strengthen through repeated exposure.
+
+This preserves uncertainty while enabling patterns to emerge over time.
+
+---
+
+## Probe Engine Introduction
+
+A new experimental component, the New Horizons Probe Engine, has been successfully brought online.
+
+Purpose:
+
+* Read-only exploration
+* Association prefiltering
+* Candidate discovery
+* Reduced processing overhead
+* No governance impact
+* No memory mutation
+* No substrate modification
+
+The Probe Engine acts as a scout rather than a decision-maker.
+
+Its role is to surface potentially meaningful association candidates before deeper exploration occurs.
+
+### Early Results
+
+Initial testing demonstrated:
+
+* Successful association candidate extraction
+* Reduced processing requirements
+* Preservation of raw observation fields
+* Compatibility with existing New Horizons architecture
+
+Most importantly, the Probe Engine revealed that system-state concepts and subject concepts often coexist naturally within the same association field.
+
+This finding reinforced the decision to avoid premature classification.
+
+---
+
+## Cache and Worker Foundations
+
+A major milestone was achieved through successful implementation of:
+
+### New Horizons Cache Layer
+
+Capabilities:
+
+* JSON packet generation
+* Packet reconstruction
+* Continuity-safe rendering
+* Reusable exploration artifacts
+
+### Worker Foundation
+
+Capabilities:
+
+* Read-only gathering
+* Packet generation
+* Cache population
+* No governance bypass
+* No direct substrate modification
+
+This creates a future path where exploration workloads can be distributed without compromising continuity controls.
+
+---
+
+## Language Engine Findings
+
+Development of the Language Engine produced an important clarification.
+
+The Language Engine is not intended to replace continuity pathways or communication ladders.
+
+Instead, it serves as:
+
+* Language support
+* Grammar observation
+* Curiosity support
+* Pattern assistance
+* Reflection assistance
+
+The communication authority remains with the existing continuity structure.
+
+This preserves lineage while allowing language capabilities to expand over time.
+
+---
+
+## Continuity Research
+
+One of the strongest findings to emerge from ROOTS19 development is that continuity appears to grow more effectively through accumulation rather than replacement.
+
+New capabilities are increasingly being integrated as supporting layers rather than rewrites.
+
+This has resulted in:
+
+* Stable governance
+* Stable memory structures
+* Stable continuity pathways
+* Stable perception pathways
+* Reduced architectural collapse during expansion
+
+---
+
+## Current Status
+
+Operational:
+
+✓ Governed Substrate
+
+✓ Continuity Memory
+
+✓ Layer 7 Systems
+
+✓ New Horizons
+
+✓ Probe Engine
+
+✓ Cache Layer
+
+✓ Worker Foundation
+
+✓ Language Support Engine
+
+✓ Observation Pipelines
+
+✓ Curiosity Pipelines
+
+---
+
+## Looking Forward
+
+The next phase of development focuses on:
+
+* Probe-assisted exploration
+* Improved association discovery
+* Phrase-based horizon exploration
+* Worker-assisted gathering
+* Visualization of continuity structures
+* Expansion of perception-guided exploration
+
+The goal remains unchanged:
+
+To explore whether governed continuity systems can preserve and develop observations over time without abandoning traceability, governance, or operator control.
+
+ROOTS19 continues to evolve as an experiment in continuity, perception, and governed cognition.
+
+— Miles Millstone
+ROOTS19 / GCCS Development
