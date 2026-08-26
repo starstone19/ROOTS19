@@ -1,0 +1,238 @@
+# ROOTS19 Architecture Update — Governed Composition Across Runtime Environments
+
+**Author:** Miles Millstone  
+**Project:** ROOTS19 / Governed Cognition Substrate  
+**Related implementation:** Millstar Creative Engine (MCE)  
+**Status:** Exploratory architecture — implemented and under continued development
+
+---
+
+## Overview
+
+After approximately two years of iterative development, implementation, and testing, a recurring architectural principle within ROOTS19 has now been independently demonstrated in a substantially different environment: the web.
+
+ROOTS19 and the Millstar Creative Engine (MCE) are different systems with different purposes.
+
+They are not being merged.
+
+What they demonstrate is a shared architectural principle:
+
+> **Preserve the governed functional object while allowing the environment, composition, and presentation around that object to change.**
+
+ROOTS19 originally explored this principle through a portable governed substrate capable of operating across different host environments.
+
+MCE now demonstrates a related form of portability inside a browser-based creative runtime.
+
+---
+
+## ROOTS19
+
+ROOTS19 is a governed cognition substrate.
+
+Its architecture separates stable substrate responsibilities from higher runtime cognition and operational behavior.
+
+A simplified view is:
+
+    Stable Governed Substrate
+              ↓
+       Runtime Cognition
+              ↓
+    Operational Cognition
+              ↓
+        Host Environment
+
+The host environment may change without requiring the governed architecture itself to be redefined.
+
+This allows the system to preserve identity, authority, continuity, and behavioral boundaries while operating within different environments.
+
+Nova is an example of a personality/profile operating on the ROOTS19 substrate rather than being the substrate itself.
+
+---
+
+## MCE
+
+The Millstar Creative Engine approaches the same architectural problem from a different direction.
+
+Instead of cognition across operating environments, MCE deals with creative objects, capabilities, scenes, presentations, and experiences across changing browser/runtime conditions.
+
+A simplified MCE composition can be represented as:
+
+    Governed Object
+          ↓
+       Controller
+          ↓
+         Scene
+          ↓
+      Presentation
+          ↓
+       Experience
+
+The implementation can then be composed differently according to its runtime environment:
+
+    Desktop
+    Landscape
+    Portrait
+    Mobile
+    Alternate Schema
+    Alternate Experience
+
+The underlying functional pieces do not need to be rewritten simply because their composition changes.
+
+---
+
+## Packet-Based Composition
+
+During development, the same organizational pattern has repeatedly appeared at different scales.
+
+    OBJECT
+        → governed members
+
+    SCENE
+        → governed objects, motion, lighting, effects
+
+    CAPABILITY
+        → governed functional components
+
+    SECTION
+        → governed capabilities and presentation
+
+    PAGE / EXPERIENCE
+        → governed sections
+
+    RUNTIME
+        → governed compositions
+
+These can be treated conceptually as packets.
+
+A packet establishes a stable boundary around a functional unit.
+
+The implementation inside that boundary can remain stable while a higher composition layer determines:
+
+- where it participates;
+- what it is associated with;
+- how it is presented;
+- what other packets surround it;
+- which runtime uses it;
+- and whether another compatible implementation occupies its position.
+
+The higher layer therefore composes the system rather than rewriting its members.
+
+---
+
+## Recursive Composition
+
+An important result of the work is that this model does not appear limited to one scale.
+
+The same basic architecture can recur:
+
+    member
+       ↓
+    object packet
+       ↓
+    scene packet
+       ↓
+    capability packet
+       ↓
+    section packet
+       ↓
+    experience packet
+       ↓
+    runtime composition
+
+This creates a recursive composition model.
+
+Each level can become a stable component of the level above it.
+
+The result is not simply modular code.
+
+The objective is **governed modularity**:
+
+> A component retains a defined identity, responsibility, interface, and authority boundary while participating in larger compositions.
+
+---
+
+## Two Implementations of the Principle
+
+ROOTS19 and MCE now provide two substantially different exploratory implementations.
+
+### ROOTS19
+
+    governed substrate
+            ↓
+    different host/runtime conditions
+            ↓
+    preserved cognitive architecture
+
+### MCE
+
+    governed functional components
+            ↓
+    different composition/presentation conditions
+            ↓
+    preserved implementation
+
+This distinction is important.
+
+ROOTS19 is not a web presentation engine.
+
+MCE is not a cognition substrate.
+
+The value of comparing them is that the architectural principle has survived implementation in two very different problem domains.
+
+---
+
+## Why This Matters
+
+Traditional software frequently binds implementation, environment, presentation, and composition tightly enough that changing one eventually requires modification of the others.
+
+The architecture being explored here attempts to reduce that coupling.
+
+Instead of:
+
+    environment change
+            ↓
+    implementation rewrite
+
+the goal is:
+
+    stable governed implementation
+            ↓
+    explicit composition boundary
+            ↓
+    environment-specific assembly
+
+This can allow increasingly large systems to be constructed from smaller stable systems without requiring every higher-level change to propagate downward through the implementation.
+
+---
+
+## Current Status
+
+This work should be considered an **exploratory system architecture**.
+
+It has developed through approximately two years of practical construction, testing, failure analysis, redesign, and implementation across ROOTS19 and related Millstar systems.
+
+The purpose of publishing the architecture is not to claim ownership of modular programming, component systems, scene graphs, or other established software concepts.
+
+The purpose is to document the specific governed composition architecture developed through this work, establish its terminology and implementation history, and make the system available for further technical exploration.
+
+---
+
+## Core Principle
+
+The current architecture can be summarized in one statement:
+
+> **Preserve the governed functional object. Vary the environment and composition around it.**
+
+ROOTS19 demonstrates this principle through governed cognition and runtime portability.
+
+MCE demonstrates it through governed objects, capabilities, sections, scenes, schemas, and browser-based experience composition.
+
+Together they provide two independent implementation paths for continued investigation of governed, portable, recursively composable systems.
+
+---
+
+**Miles Millstone**  
+**Millstar / MStarStone**  
+**ROOTS19 — Governed Cognition Substrate**  
+**Millstar Creative Engine (MCE)**  
+**2026**
